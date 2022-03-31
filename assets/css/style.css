@@ -1,0 +1,13 @@
+body {
+  background-color: #ccc;
+  height: 100vh;
+  overflow-x: auto;
+}
+
+.card-lists {
+  overflow-x: auto;
+}
+
+#lists-container {
+  flex-wrap: wrap;
+  }
